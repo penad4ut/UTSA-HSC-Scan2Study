@@ -26,3 +26,6 @@ Scan2Study integrates with the **TRACER Dashboard**, a transparent human-in-the-
 - Support quality assurance for trial abstraction and registry workflows  
 
 TRACER ensures that extracted information is **auditable, correctable, and fully traceable**, reinforcing trustworthiness and enabling continuous system improvement.
+
+## Data Privacy Notice
+This repository contains only non-PHI source code and synthetic or illustrative example files. No protected health information (PHI), identifiable patient data, or confidential institutional information is stored or distributed through this repository.
